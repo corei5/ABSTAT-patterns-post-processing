@@ -1,1 +1,1 @@
-# ABSTAT-patterns-post-processing
+# Effect of heuristic post-processing on knowledge graph profile patterns: cross-domain study
